@@ -12,12 +12,6 @@
 |---|---|---|---|
 | 📚 **[Readwise](https://github.com/currycham/readwise)** | 让读过的书成为你的一部分 | 双人播客 · 限时精读 · 闯关检测 · 向作者提问 · 3D 书籍网络 | [已上线](https://readwise.waywise.tech) |
 | 📈 **[InvestWise](https://github.com/currycham/investwise)** | 替你盯住持仓公司的重要变化 | 每日新闻跟踪 · 四框架打分 · 投资逻辑对照 · 预警邮件 · 苏格拉底式提问 | [邀请制内测](https://investwise.waywise.tech) |
-| 🌱 **Waywise** | 孩子的 AI 小伙伴 + 家长的教育 agent | 无屏幕小伙伴「木米」陪 3–6 岁孩子玩 · 家长端「北极星」整理睡前故事、周报和成长回忆录 | 家庭试点中 |
-
-#### 一些做法
-
-- **Readwise**：按《如何阅读一本书》和《学习之道》的方法设计回顾流程，用主动回忆和检测代替"好像看过"。
-- **InvestWise**：每条结论都附原始来源，模型编造的来源一律丢弃；AI 只追问逻辑里最薄弱的一环，不给买卖建议。
-- **Waywise**：以教育部《3–6 岁儿童学习与发展指南》为骨架，大模型不决定教什么，只决定怎么说。
+| 🌱 **[Waywise](https://github.com/currycham/waywise_kids_agent)** | 孩子的 AI 小伙伴 + 家长的教育 agent | 无屏幕小伙伴「木米」陪 3–6 岁孩子玩 · 家长端「北极星」整理睡前故事、周报和成长回忆录 | 家庭试点中 |
 
 `Next.js` `Python` `SQLite` `DeepSeek` `TTS` `微信小程序` `嵌入式硬件`
