@@ -10,7 +10,7 @@
 
 #### WayWise 系列产品
 
-WayWise 的意思是认得路，也会找路。每个产品只做好一件具体的事，现在有五个，还会继续往前修。主页：[waywise.tech](https://waywise.tech)
+WayWise 的意思是认得路，也会找路。每个产品只做好一件具体的事，现在有五个，更多还在生长。主页：[waywise.tech](https://waywise.tech)
 
 | 产品 | 一句话 | 核心功能 | 状态 |
 |---|---|---|---|
